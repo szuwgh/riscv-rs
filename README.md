@@ -1,2 +1,2 @@
 # riscv-rs
-risc-v processor implementation writen in rust
+RISC-V virtual processor implementation writen in rust
